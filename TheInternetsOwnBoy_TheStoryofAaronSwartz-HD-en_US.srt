@@ -1,35 +1,37 @@
 ﻿1
 00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
-
-2
-00:00:26,000 --> 00:00:28,600
+அநியாயமான சட்டங்கள் இருக்கும் பட்சத்தில் 
+2.00:00:26,000 --> 00:00:28,600
 shall we be content to obey them,
-
+இவைக்கு கட்டுப்பட்டு நாம் நடப்பதா ?
 3
 00:00:28,700 --> 00:00:33,600
 or shall we endeavor to amend them,
 and obey them until we have succeeded,
-
+இல்லையனில்
+ இவைகளை திருத்த முற்பட்டு அது வெற்றி பெறும் வரை இவைக்கு கட்டுபடுவதா ?
 4
 00:00:33,700 --> 00:00:37,600
 or shall we transgress them at once?
-
+இல்லையனில்    
+தற்பொழுதே இச்சட்டத்தை மீறுவதா ?
 5
 00:00:37,700 --> 00:00:40,000
 Henry David Thoreau
-
+Henry David Thoreau
 6
 00:00:50,222 --> 00:00:55,000
 The co-founder of the social news and entertainment website "reddit" has been found dead
-
+?????????
 7
 00:00:57,537 --> 00:01:01,542
 He surely was a prodigy althought he never kind of thought of himself like that
-
+தன்னை மேதையென்று உணராவிடிலும் நிச்சியமாக இந்த வாலிபன் ஒரு மேதை தான் 
 8
 00:01:01,611 --> 00:01:08,000
 He was totally unexcited about studing businesses and making money
+தனது திறமையை வியாபாரத்தில் பயன்படுத்தி பொருள் ஈட்ட இவர் விரும்பவில்லை 
 
 9
 00:01:09,941 --> 00:01:14,800
@@ -39,37 +41,45 @@ There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometow
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
 
+இணைதளத்தின் மிக பிரகாசமான ஒளியாய் திகழ்ந்த Aaron Swartz இன் அன்புக்குரியவர்கள் பிரியாவிடை தர,  அவரது சொ
+ந்த ஊரான Highland Park சோகத்தில் முழுகியது 
+
+
 11
 00:01:19,000 --> 00:01:22,247
 ...Open Access and computer activits are mourning his loss
-
+?????
 12
 00:01:22,280 --> 00:01:25,163
 ...an astonishing intellect. You talk to people who knew him
-
+இவரை அறிந்தவர்களை கேட்டு பார் ...
+...இவர் வியக்கத்தக்க மேதை
+...
 13
 00:01:25,214 --> 00:01:29,500
 ...he was killed by the government and MIT betrayed all of its basic principles
-
+...MIT தனது அடிப்படை கொள்கைக்கு துரோஹம் இழைத்து விட்டது, அரசாங்கம் இவரை கொன்றுவிட்டது 
 14
 00:01:29,600 --> 00:01:34,283
 ...they wanted to make an example out of it, ok?
-
+அரசாங்கம் இதனை ஒரு உதாரணமாக காட்ட விரும்பியது 
 15
 00:01:34,865 --> 00:01:39,000
 Governments have an insatiable desire to control
+பொதுவாக அரசாங்கத்திற்கு பிறரை கட்டுபடுத்த வெறித்தனமான ஆசை உண்டு 
 
 16
 00:01:39,100 --> 00:01:43,360
 ...he was potentially facing 35 years in prison and 1 million dollars fine
-
+...இவருக்கு 35 வருட சிறை தண்டனையும், ஒரு மில்லியன் டாலர் அபராதமும் விதிக்க பட வாய்ப்பு இருந்தது 
 17
 00:01:43,410 --> 00:01:49,076
 Raising questions of prosecutorial zeal and I would say even miscondut.
-
+இந்த வழக்கு விசாரணைகளின் போக்கு தவறான நடவடிக்கை என்று நான் கருதுவேன் 
 18
 00:01:49,141 --> 00:01:54,600
 Have you looked into that particular matter and reached any conclusions?
+இந்த  குறிப்பிட்ட விஷயத்தில் உன் கருத்து என்ன ?
 
 19
 00:01:57,700 --> 00:02:00,600
@@ -79,21 +89,24 @@ Growing up, you know, I slowly had this process of realising
 00:02:00,683 --> 00:02:02,807
 that all the things around me, that people had told me
 
+
 21
 00:02:02,850 --> 00:02:06,189
 were just the natural way things were, the way things always would be.
-
+எல்லாமே இப்படி தான் இருக்கும் இவற்றை மாற்ற முடியாது 
 22
 00:02:06,225 --> 00:02:08,545
 They weren't natural at all. They were things that could be changed
-
+என்ற மக்களின் கருத்தை, நான் வளர வளர என்னால் ஏற்றுகொள்ளமுடியவில்லை 
 23
 00:02:08,589 --> 00:02:11,687
 and they were thing that more importantly were wrong and should change.
-
+இவைகளை  மாற்ற முடியும், இவை தவறானவை, இவற்றை மாற்றியே ஆகவேண்டும் என உணர்ந்தேன் 
 24
 00:02:11,738 --> 00:02:14,516
 And once I realised that, there was really kind of no going back
+இதை உணர்ந்தபின், நான் பின்வாங்கபோவதில்லை 
+
 
 25
 00:02:15,000 --> 00:02:19,000
