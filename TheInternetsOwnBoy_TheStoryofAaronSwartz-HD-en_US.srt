@@ -115,15 +115,15 @@ The Internet's Own Boy
 26
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
-
+வாருங்கள்,கதை வாசிப்போம் 
 27
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the fair'
-
+புத்தகத்தின் பேர் "The Paddington Fair "
 28
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
-
+அவன் இங்கு "Highland Park " இல் பிறந்து வளந்தார் 
 29
 00:02:36,552 --> 00:02:40,000
 Aaron came from a family of three brothers all extraordinarly bright
