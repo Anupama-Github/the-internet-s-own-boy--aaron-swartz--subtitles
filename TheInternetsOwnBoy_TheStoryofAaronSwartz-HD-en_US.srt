@@ -314,48 +314,51 @@ He started programming from a really young age.
 72
 00:05:18,152 --> 00:05:21,585
 I remember the first program that I wrote with him was in basic
-
+நாங்கள் இருவரும் எழுதிய முதல் Basic program
 73
 00:05:21,781 --> 00:05:24,334
 and  was a Star Wars trivia game
-
+ஒரு எளிய "Star Wars " விளையாட்டு
 74
 00:05:25,883 --> 00:05:29,500
-He sat down with me in the basement were the computer was
-
+He sat down with me in the basement where the computer was
+கணினி வைக்கபட்டிருந்த அடிதளத்தில் என்னோடு அமர்ந்து 
 75
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
+மணிக்கணக்காக இந்த விளையாட்டை program செய்தான் 
 
 76
 00:05:34,880 --> 00:05:38,196
 The problem that I kept having with him is that
 there was nothing that I wanted done
-
+எங்கள் இருவருக்கும் உள்ள வித்தியாசம்  என்னவென்றால், எனக்கு எதையும் மென்மேலும் செய்ய தோன்றவில்லை 
 77
 00:05:38,247 --> 00:05:41,563
 and to him there was always something to do
-
+ஆனால் அவனுக்கோ எதையுமே மேலும் நன்றாக செய்ய ,
 78
 00:05:41,600 --> 00:05:44,181
 always something that programming could solve
+அனைத்தையும் programming முலம் தீர்வு காண   துடிப்பு இருந்தது 
 
 79
 00:05:47,185 --> 00:05:50,603
 The way that Aaron always thought is that programming is magic
-
+program என்ற வலிமையான மாயஜால கருவி கொண்டு 
 80
 00:05:50,843 --> 00:05:53,963
 you can accomplish this things that normal humans can't
-
+ஒரு சாதாரண மனிதனால் செய்யமுடியாதவற்றை சாதிக்கலாம் என Aaron நம்பினான் 
 81
 00:05:54,029 --> 00:05:57,941
 Aaron made an ATM using like a Macintosh and like a cardboard box
-
+(Not sure of the translation for this line)
+ஒரு அட்டை பேட்டியின் உதவி கொண்டு Macintoshகணினியை ATM மாக மாற்றினான் 
 82
 00:05:58,000 --> 00:06:01,700
 One year for Halloween I didn't know what I wanted to be
-
+ஒரு முறை  Haloween க்கு நான் என்ன வேடம் போடலாம் என்று தடுமாறியபோது 
 83
 00:06:01,800 --> 00:06:04,600
 and he thought would be really really cool if I dressed up
@@ -364,19 +367,23 @@ and he thought would be really really cool if I dressed up
 00:06:04,700 --> 00:06:08,800
 like his new favourite computer which at the time was the original iMac
 
+நான் அவனது புது அபிமான iMac கணினியாக
+வேடம் போட்டால் மிக சிறப்பாக இருக்கும் என கருதினான் 
+
 85
 00:06:09,025 --> 00:06:11,150
 and he hated dressing up for Hallowen
-
+தான் தனக்கு வேடம் போட விரும்பாத அவன் 
 86
 00:06:11,160 --> 00:06:14,340
 but he loved convincing other people to dress like other things he wanted to see
-
+பிறருக்கு தான் விரும்பிய வேடங்களை போட்டு ரசிக்க விரும்பினான் 
 87
 00:06:17,900 --> 00:06:20,200
 [?]
 Guys, come on, look at the camera
-
+[?]
+"டேய், கேமராவை பாருங்கடா "
 88
 00:06:24,130 --> 00:06:28,174
 He made this website called "The Info"
