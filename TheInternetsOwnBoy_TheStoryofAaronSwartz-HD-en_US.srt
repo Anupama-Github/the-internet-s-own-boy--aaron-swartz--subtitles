@@ -123,64 +123,70 @@ The name of the book is 'Paddington at the fair'
 28
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
-அவன் இங்கு "Highland Park " இல் பிறந்து வளந்தார் 
+
 29
 00:02:36,552 --> 00:02:40,000
 Aaron came from a family of three brothers all extraordinarly bright
-
+Aaron Highland  Park இல் மூன்று புத்திசாலியான சகோதரர்களில் ஒருவனாக பிறந்து   வளர்ந்தான் 
 30
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
+டப்பா சரிகிறது !!!
 
 31
 00:02:44,574 --> 00:02:47,767
 So, we were all, you know, not the best behaved children
-
+நாங்கள் எல்லோருமே சமர்த்தான குழந்தைகள் அல்ல 
 32
 00:02:47,810 --> 00:02:51,100
 you know, three boys running around all the time, causing trouble
-
+சுட்டித்தனமாக எல்லா இடத்திலும்  ஓடி தொல்லை  கொடுத்து கொண்டிருந்தோம் 
 33
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
+Mom:Aaron, Aaron.. நில் 
+Aaron:என்ன ?
 
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-
+Aaron மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
 35
 00:03:06,500 --> 00:03:07,700
 Toc, toc!?
-
+டக் டக் !?
 36
 00:03:07,800 --> 00:03:08,800
 Who's here?
-
+யார் இங்கே?
 37
 00:03:08,900 --> 00:03:09,800
+Aaron!
 Aaron!
 
 38
 00:03:09,900 --> 00:03:10,836
 Aaron who?
+எந்த Aaron
 
 39
 00:03:10,887 --> 00:03:12,500
 Aaron funny man
-
+Aaron.. கோமாளி
 40
 00:03:12,640 --> 00:03:14,858
 He knew what he wanted, he always wanted to do it.
-
+என்ன வேண்டும் என்பதை நன்கு அறிந்து அதை செய்வதிலேயே குறியாக இருந்தான் 
 41
 00:03:14,872 --> 00:03:16,850
 He always accomplished what he wanted.
+தனக்கு வேண்டியதெல்லாம் சாதித்து கொண்டான் 
 
 42
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
-
+முடிவில்லாத ஆர்வம் கொண்டவன் 
 43
 00:03:21,156 --> 00:03:25,500
 Here's the little picture of a [?] [?]
@@ -188,114 +194,122 @@ Here's the little picture of a [?] [?]
 44
 00:03:33,000 --> 00:03:34,494
 One day he said to Susan:
-
+ஒரு நாள் அவன் Susan இடம்  சொன்னான் : 
 45
 00:03:34,523 --> 00:03:37,240
 "Let's do three family entertainment[?] downtown in the park"
-
+நாம் மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
 46
 00:03:37,381 --> 00:03:40,000
 Three family entertainment[?] downtown in the park
-
+ மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
 47
 00:03:40,500 --> 00:03:42,000
 He was three at the time
+அப்போது அவனுக்கு வயது மூன்று 
 
 48
 00:03:42,500 --> 00:03:44,200
 She said: "What are you talking about?"
-
+அவள் கேட்டாள் " என்ன சொல்கிறாய் "?
 49
 00:03:44,300 --> 00:03:47,000
 He said: "Look it says here on on the refrigerator"
-
+அவன் சொன்னான்  "இங்கே பார்: refrigerator இல் எழுதி இருக்கிறது "
 50
 00:03:47,054 --> 00:03:49,178
 "Three family entertainment[?] downtown in the park"
-
+மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
 51
 00:03:49,200 --> 00:03:54,800
-She was flurred and astonished that he could read
-
+She was floored and astonished that he could read
+அவனது வாசிக்கும் தன்மையை கண்டு அவள் வியந்து போனால் 
 52
 00:03:55,010 --> 00:03:59,512
 It's called: "My family seder"
-
+இதன் பெயர் : "My family seder"
 53
 00:04:00,094 --> 00:04:04,800
 The seder night is different from all other nights
-
+இந்த seder இரவு மற்ற இரவுகளை விட வித்தியாசமானது 
 54
 00:04:04,858 --> 00:04:08,472
 I remember once we were are the University of Chicago library
+ஒரு முறை University of Chicago நூலகத்தில் 
 
 55
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was like from 1900
-
+அலமாரியில் இருந்து   நூறாண்டு கடந்த பழைய புத்தகத்தை எடுத்து 
 56
 00:04:12,589 --> 00:04:16,050
 and showed to him, I said: "You know this is [?] an extraordinary place"
-
+அவனிடம்  காட்டி "இது ஒரு நல்ல வித்தியாசமான நூலகம் ", என்று சொன்னேன் 
 57
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
-
+நாம் மூவருமே ஆருவமுள்ள பிள்ளைகள் தான் ஆனால் Aaron க்கு கற்பதும் கற்பிப்பதும் மிக பிடித்தமானவை 
 58
 00:04:22,225 --> 00:04:30,000
 Today we're going to read the ABC backwards z, y, x, w, ...
-
+இன்று நாம் ABC ஐ  பின்னோக்கி படிப்போம் 
 59
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
-
+தனது முதல் Algebra வகுப்பிலிருந்து வீடு திரும்பிய Aaron 
 60
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
+"Noah, நான் உனக்கு Algebra சொல்லிகொடுகிறேன் "
 
 61
 00:04:38,625 --> 00:04:40,363
 and I'm like: "What is algebra?"
-
+நான் கேட்டேன் "Algebra என்றால் என்ன?"
 62
 00:04:40,785 --> 00:04:42,305
 and he was always like that
+Aaron எப்போதும் இப்படிதான் 
 
 63
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
-
+நான் இப்போ button ஐ அமுக்கிறேன் 
 64
 00:04:46,600 --> 00:04:50,500
 there, now he's got that[?], now it's a pink
-
+ah வந்துவிட்டது ! இது pink 
 65
 00:04:52,109 --> 00:04:56,000
-When he was at 2 or 3 three years old an Bob introduced him to computers
-
+When he was at 2 or 3 three years old and Bob introduced him to computers
+2-3 வயதான Aaron ஐ Bob கணினிதுறையில் அறிமுகம்  செய்தார் 
 66
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
-
+அதில் தீவிர ஈடுபாடு கொண்டான் Aaron
 67
 00:04:59,178 --> 00:05:02,712
 [?]
 
 68
 00:05:03,243 --> 00:05:08,247
-We all had computers, but Aaron really talked to them, really talked to the Internet
+We all had computers, but Aaron really took to them, really took to the Internet
+எங்கள் மூவருக்கும் கணினி இருந்தாலும் Aaron அதனுடன் ஒன்றி விட்டான் 
 
 69
 00:05:09,207 --> 00:05:10,500
 Looking at the computer?
+கணினியில் என்ன செய்கிறாய்?
 
 70
 00:05:10,545 --> 00:05:12,900
-No, how [?]
+No, how come, Mommy, how come nothing is working
+இல்ல அம்மா ... என் ? என் ஒண்ணும் வரலை?
 
 71
 00:05:15,854 --> 00:05:18,101
 He started programming from a really young age.
+சின்னஞ்சிறு வயதிலேயே கணினி program எழுத  ஆரம்பித்துவிட்டான் 
 
 72
 00:05:18,152 --> 00:05:21,585
