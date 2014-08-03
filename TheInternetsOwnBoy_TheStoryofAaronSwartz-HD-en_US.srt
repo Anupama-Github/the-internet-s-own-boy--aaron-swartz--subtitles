@@ -460,79 +460,81 @@ Me and my other brother would be like: "Yeah, you know"
 106
 00:07:21,490 --> 00:07:25,770
 Aaron's website "The Info.org" wins a school competition
-
+Aaron இன் "The Info.org" இணையதளம் 
 107
 00:07:25,800 --> 00:07:30,000
 hosted by the Cambridge based web design firm ArsDigita
-
+  Cambridge இல் உள்ள ArsDigita நிறுவனம் நடத்திய பள்ளி போட்டியில் முதன்மையாக வந்தது 
 108
 00:07:34,240 --> 00:07:37,738
 We all went to Cambridge when he won the ArsDigita Prize
-
+இவ்  விழாவிற்கு நாங்கள் எல்லோரும் Cambridge சென்றோம் 
 109
 00:07:37,774 --> 00:07:39,687
 and, you know, we had no clue of what Aaron was doing
-
+முக்கியமான இந்த பரிசை அறிவிக்கும் வரையில் 
 110
 00:07:39,803 --> 00:07:43,156
-it was obvious that the pirze was really important
-
+it was obvious that the prize was really important
+Aaron என்ன செய்கிறான் என்பது எங்களுக்கு தெரியாமல் இருந்துது 
 111
 00:07:44,261 --> 00:07:47,700
 Aaron soon became involved with on-line programming communities
-
+இணையதளத்தின் வளர்சிக்காக புது முறைகளை அமலாக்க முயன்ற 
 112
 00:07:47,752 --> 00:07:50,894
-than in the process of shaping a new tool for the Web
-
+then in the process of shaping a new tool for the Web
+online programming செய்பவர்களின் கழகத்தில் Aaron க்கு ஈடுபாடு உண்டாகியது
 113
 00:07:51,460 --> 00:07:55,723
 He concept is like[?]: "Ben, there's a really awesome thing that I'm working on"
-
+"Ben,ஒரு மகத்தான முயற்சியில் நான் ஈடுபட்டுளேன் "
 114
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it"
-
+"இதை பற்றி நீ தெரிந்து கொள்ள வேண்டும் "
 115
 00:07:57,760 --> 00:07:58,800
 I'm like: "Yeah, what is it?"
-
+நான் கேட்டேன் "என்ன அது ?"
 116
 00:07:58,865 --> 00:08:01,010
-He says: "Is this thing called RSS"
-
+He says: "It's this thing called RSS"
+"இதற்கு RSS என்று பெயர் "
 117
 00:08:02,510 --> 00:08:04,007
-And he explains me what RSS is
-
+And he explains to me what RSS is
+என்று கூறி அதை பற்றி விவரித்தான் 
 118
 00:08:04,021 --> 00:08:11,500
 and I like: "Why is that useful? Aaron, is a site using it? Why would I want to use it?"
-
+நான் கேட்டேன் 
+"இதனால் என்ன பயன் ?ஏதாவது இணையத்தளம் இதை உபயோகிகின்றதா?"
 119
 00:08:11,672 --> 00:08:15,127
 There was this mailing list for people who were working on RSS
 
+RSS , XML கழகதினற்கு ஒருவருடன் ஒருவர் தொடர்புகொள்ள ஒரு தனி பட்டியல் உண்டு 
 120
 00:08:15,160 --> 00:08:19,374
 and XML more generally and there was a person on it named Aaron Swartz
-
+இதில் Aaron Swartz -
 121
 00:08:19,400 --> 00:08:23,600
 who was combatitive but very smart and who had lots of good ideas
-
+சிறந்த கருத்துகள் கொண்ட திறமையான, உறுதியான இவர் பெயரும் இருந்தது 
 122
 00:08:23,700 --> 00:08:28,330
 and he did never come to the face to face meetings and they said:
-
+ஆனால் இவர் ஒரு நேர்முக விவாகத்திலும் கலந்துகொள்வதில்லை 
 123
 00:08:28,349 --> 00:08:32,021
 "You know, when are you gonna come to one of those face to face meetings?"
-
+"எப்போது நேருக்கு நேர் சந்திப்போம் ? "என்று உறுப்பினர்கள் கேட்டபோது 
 124
 00:08:32,094 --> 00:08:37,300
 He said: "You know, I don't think my mom would let me, you know I just turned 14"
-
+"14 வயதாகிய என்னை என் அம்மா அனுப்புவார் என்று எனக்கு தோன்றவில்லை " என்று  Aaron Swartz பதில் அளித்தான் 
 125
 00:08:37,400 --> 00:08:39,636
 So the first reaction was, well you know,
@@ -544,15 +546,15 @@ this person this colleague we've been working with all year
 127
 00:08:42,552 --> 00:08:46,589
 was 13 years old when we were working with him and is only 14 now
-
+இவளவு நாட்கள் நம்மோடு வேலை செய்த நபர் ஒரு 14 வயது சிறுவனா? என்று திகைத்த நபர்கள் 
 128
 00:08:46,683 --> 00:08:49,425
 and their second reaction was: "Christ, we really want to meet him!"
-
+"நாங்கள் அவனை பார்க்க மிக ஆவலாக இருக்கிறோம் "
 129
 00:08:49,469 --> 00:08:50,800
 "You know that's extraordinary"
-
+"இது ஒரு வியப்பான விஷயம் "
 130
 00:08:50,930 --> 00:08:53,432
 Was part of the community that drafted RSS
