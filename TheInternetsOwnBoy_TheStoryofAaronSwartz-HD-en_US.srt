@@ -670,39 +670,42 @@ I think, if you don't see the innovation maybe your head is in the sand
 156
 00:10:21,556 --> 00:10:25,389
 He takes on this alpha-male personality where he's sort of like
-
+ஆதிக்க ஆணின் தனித்தன்மையை கொண்ட Aaron 
 157
 00:10:25,410 --> 00:10:27,701
 "I'm smarter than you, and because I'm smarter than you
-
+"நான் உன்னைவிட சாமர்தியமானவன், அதனால் 
 158
 00:10:27,723 --> 00:10:29,700
 I'm better than you, and I can tell you what to do"
-
+நான் உன்னைவிட சிறந்தவன் , எனவே நான் உனக்கு வழிகாட்டலாம் "
 159
 00:10:30,007 --> 00:10:34,500
-It's an extension of him being like a kind of torpe[?]
-
+It's an extension of him being like a kind of twerp
+என கூறுவது சிலருக்கு எரிச்சல் ஊடுவத்ஹக இருக்கலாம் 
 160
 00:10:35,100 --> 00:10:38,596
 So you aggregate all these computers together and now they're solving big problems
+பல கணினிகளின் திறனை பயன் படுத்தி மிக பெரிய பிரச்சனைகளுக்கு :
 
 161
 00:10:38,625 --> 00:10:42,000
 like searching for aliens or trying to cure cancer
-
+வேற்று கிரக மனிதர்களை தேடல் , புற்று  நோயை முறியடிக்கும் மருத்துவம் -- இவற்றுக்கு  தீர்வுகாணலாம் 
 162
 00:10:45,003 --> 00:10:49,600
 First I met him on IRC, on Internet Relay Chat, he didn't just write code
-
+நான் முதலில் இவனை IRC இல் சந்தித்தேன் , 
 163
 00:10:49,650 --> 00:10:55,600
 he also got people excited about solving problems, he was a connector
+அவன், program எழுதுவதில் மட்டும் அல்ல , பிரச்னைகளுக்கு முடிவுக்கான பிறரை
 
+ஒருங்கிணைப்பதிலும் மையமாக திகழ்ந்தான் 
 164
 00:10:55,658 --> 00:10:58,300
 the free culture movement, which had lot of his energy
-
+free culture இயக்கத்தில் ஈடுபாடு கொண்டான் 
 165
 00:10:58,356 --> 00:11:03,600
 I think Aaron was trying to make the world work.
