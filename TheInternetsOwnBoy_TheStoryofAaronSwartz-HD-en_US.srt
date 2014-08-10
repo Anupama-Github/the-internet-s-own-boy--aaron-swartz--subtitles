@@ -575,14 +575,18 @@ was a tool that you can use to get summaries
 00:09:05,854 --> 00:09:08,269
 of things that are going on on other web pages
 
+ இணையதள பக்கங்களில் இருந்து முக்கியமான கருத்து சுருக்கங்களை பெற்று தர ஒரு கருவியான RSS இல்
+ Aaron Swartz மியுரைகளின் அடிப்படைகளை உருவாக்குவதில் ஈடு பட்டார் 
+ 
 135
 00:09:08,327 --> 00:09:10,700
 Commonly you would use this for a blog
-
+சாதாரணமாக இதை வலைப்பதிவுகளில் பயன் படுத்துவார்கள் 
 136
 00:09:10,865 --> 00:09:13,883
 You might have 10 or 20 people's blog you wanna read
 
+நீங்கள் 10-20 நபர்களின் வலைபகுதிகளை காண வேண்டும் என்றால் , 
 137
 00:09:13,934 --> 00:09:18,610
 you use the RSS feeds, these summaries of what's going on on those other pages
@@ -590,39 +594,41 @@ you use the RSS feeds, these summaries of what's going on on those other pages
 138
 00:09:18,654 --> 00:09:22,400
 to create a unified list of all the stuff that's going on
-
+RSS இவை அனைத்தையும் தொகுத்து ஒரே பட்டியலில் கொடுகிறது 
 139
 00:09:22,458 --> 00:09:26,000
 Aaron was really young but he understood the technology
-
+Aaron சிறுவனாய் இருப்பினும், நிறைவற்ற இந்த தொழில்நுட்பத்தின்
 140
 00:09:26,050 --> 00:09:29,700
 and he saw that was imperfect and looked for ways to help make it better
-
+தன்மையை அறிந்து  அதை மென்படுத்தும் முயற்சியில் ஈடுபட்டார் 
 141
 00:09:35,500 --> 00:09:39,800
 So his mom bundles[?] him on a plane in Chicago, we pick him up in San Francisco
-
+தாயார்  அவரை Chicago-SanFransico விமானத்தில் ஏற்றிவிட நாங்கள் அவனை விமான நிலையத்தில் வரவேற்று அழைத்து வந்தோம் 
 142
 00:09:39,900 --> 00:09:42,720
 we introduced him to interesting people to argue with
 
+நாம் அவரை சுவாரசியமாக வாதாடும் நபர்களிடம் அறிமுகம் செய்தோம் 
 143
 00:09:42,792 --> 00:09:45,229
 and we marvelled at his horrific eating habits
-
+அவனின் உணவு பழக்கங்களை கண்டு வியந்தோம் 
 144
 00:09:45,265 --> 00:09:48,421
-he only eat white food, only like, you know, steamed rice
-
+he only ate white food, only like, you know, steamed rice
+அவன் வெண்மையான பதார்த்தங்களையே உண்டு வந்தான் ,  
 145
 00:09:48,494 --> 00:09:51,250
-and not white rice, beacause that was not sufficiently white,
+and not fried rice, beacause that was not sufficiently white,
 
+உதாரணமாக வருத்த அருசியை விட்டு வேகவைத்த  அரிசியையும்
 146
 00:09:51,294 --> 00:09:53,800
 and white bread, and so on
-
+வெள்ளை ரொட்டியும்   அதன் வெண்மை காரணமாக விரும்பினான் 
 147
 00:09:53,847 --> 00:09:57,927
 and you kind of marvel at the quality of the debate
@@ -630,35 +636,37 @@ and you kind of marvel at the quality of the debate
 148
 00:09:57,949 --> 00:10:01,000
 emerging from what appeared to be a small boy's mouth
+இச்சிறுவனின் வாதாடும் திறமையை கண்டு வியந்த நாங்கள்
 
 149
 00:10:01,061 --> 00:10:04,600
-and you think, this is a kid, is really going to go somewhere if he doesn't die of scroovy[?]
-
+and you think, this is a kid, is really going to go somewhere if he doesn't die of scurvy[?]
+இவன் scurvy இனால் பாதிக்கப்பட்டு மாண்டு போகாவிட்டால், மிக சிறந்த மனிதனாக வருவான் என்று நினைத்தோம் 
 150
 00:10:04,720 --> 00:10:05,927
 Aaron you're up
-
+Aaron "நீ பேசலாம் "
 151
 00:10:06,887 --> 00:10:10,087
 I think the difference is that now you can't make companies like that per-se
-
+??????????????????????????????
 152
 00:10:10,140 --> 00:10:12,181
 you can't have companies that just like
-
+????????????????????????????????
 153
 00:10:12,218 --> 00:10:15,600
 "let's sell dog food over the Internet, dog food over the cellphones"
-
+????????????????????????????????
 154
 00:10:15,730 --> 00:10:18,080
 but there still lot of innovation going on,
 
+ஆயினும் நிறைய கண்டுபிடிப்புகள் தொடர்ந்து கொண்டுதான் இருக்கின்றன 
 155
 00:10:18,116 --> 00:10:21,214
 I think, if you don't see the innovation maybe your head is in the sand
-
+புது புது கண்டுபிடிப்புகளை உணராவிட்டால் , தன் தலையை மணலில் புதைத்த அறியாதவனாக  இருகின்றாய் 
 156
 00:10:21,556 --> 00:10:25,389
 He takes on this alpha-male personality where he's sort of like
