@@ -19,11 +19,11 @@ or shall we transgress them at once?
 5
 00:00:37,700 --> 00:00:40,000
 Henry David Thoreau
-Henry David Thoreau
+ஹென்றி டேவிட் தோரியோவ்(Henry David Thoreau)
 6
 00:00:50,222 --> 00:00:55,000
 The co-founder of the social news and entertainment website "reddit" has been found dead
-?????????
+சமூக மற்றும் பொழுதுபோக்கு வலைத்தளமான "ரெட்டிட்"-இன் இணை-நிறுவுனர் இறந்த நிலையில் கண்டுட்பிடிக்கப்பட்டார்.
 7
 00:00:57,537 --> 00:01:01,542
 He surely was a prodigy althought he never kind of thought of himself like that
@@ -41,8 +41,8 @@ There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometow
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
 
-இணைதளத்தின் மிக பிரகாசமான ஒளியாய் திகழ்ந்த Aaron Swartz இன் அன்புக்குரியவர்கள் பிரியாவிடை தர,  அவரது சொ
-ந்த ஊரான Highland Park சோகத்தில் முழுகியது 
+இணையத்தின் மிகப் பிரகாசமான ஒளியாய் திகழ்ந்த ஆரோன் ஸ்வார்ட்ஸின்(Aaron Swartz) அன்புக்குரியவர்கள் பிரியாவிடை தர,  அவரது சொ
+ந்த ஊரான ஹைலாந்து பார்க் (Highland Park) சோகத்தில் முழுகியது 
 
 
 11
@@ -58,7 +58,7 @@ as loved ones say goodbye to one of the Internet's brightest lights
 13
 00:01:25,214 --> 00:01:29,500
 ...he was killed by the government and MIT betrayed all of its basic principles
-...MIT தனது அடிப்படை கொள்கைக்கு துரோஹம் இழைத்து விட்டது, அரசாங்கம் இவரை கொன்றுவிட்டது 
+...எம்.ஐ.டி (MIT) தனது அடிப்படைக் கொள்கைக்கு துரோஹம் இழைத்து விட்டது, அரசாங்கம் இவரை கொன்றுவிட்டது 
 14
 00:01:29,600 --> 00:01:34,283
 ...they wanted to make an example out of it, ok?
@@ -145,13 +145,13 @@ you know, three boys running around all the time, causing trouble
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
-Mom:Aaron, Aaron.. நில் 
-Aaron:என்ன ?
+அம்மா:ஆரோன், ஆரோன்.. நில் 
+ஆரோன்:என்ன ?
 
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-Aaron மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
+ஆரோன் மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
 35
 00:03:06,500 --> 00:03:07,700
 Toc, toc!?
@@ -163,17 +163,17 @@ Who's here?
 37
 00:03:08,900 --> 00:03:09,800
 Aaron!
-Aaron!
+ஆரோன்!
 
 38
 00:03:09,900 --> 00:03:10,836
 Aaron who?
-எந்த Aaron
+எந்த ஆரோன்
 
 39
 00:03:10,887 --> 00:03:12,500
 Aaron funny man
-Aaron.. கோமாளி
+ஆரோன்.. கோமாளி
 40
 00:03:12,640 --> 00:03:14,858
 He knew what he wanted, he always wanted to do it.
@@ -187,14 +187,17 @@ He always accomplished what he wanted.
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
 முடிவில்லாத ஆர்வம் கொண்டவன் 
+
 43
 00:03:21,156 --> 00:03:25,500
 Here's the little picture of a [?] [?]
+இதோ இங்கே ஒரு படம்... 
 
 44
 00:03:33,000 --> 00:03:34,494
 One day he said to Susan:
-ஒரு நாள் அவன் Susan இடம்  சொன்னான் : 
+ஒரு நாள் அவன் சூசன்(Susan) இடம்  சொன்னான் : 
+
 45
 00:03:34,523 --> 00:03:37,240
 "Let's do three family entertainment[?] downtown in the park"
@@ -202,7 +205,8 @@ One day he said to Susan:
 46
 00:03:37,381 --> 00:03:40,000
 Three family entertainment[?] downtown in the park
- மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
+மூவரும் பூங்காவில் கேளிக்கை[?] காட்டுவோம்
+
 47
 00:03:40,500 --> 00:03:42,000
 He was three at the time
@@ -212,81 +216,97 @@ He was three at the time
 00:03:42,500 --> 00:03:44,200
 She said: "What are you talking about?"
 அவள் கேட்டாள் " என்ன சொல்கிறாய் "?
+
 49
 00:03:44,300 --> 00:03:47,000
 He said: "Look it says here on on the refrigerator"
-அவன் சொன்னான்  "இங்கே பார்: refrigerator இல் எழுதி இருக்கிறது "
+அவன் சொன்னான்  "இங்கே பார்: குளிர்சாதனப்  பெட்டியில் எழுதி இருக்கிறது "
+
 50
 00:03:47,054 --> 00:03:49,178
 "Three family entertainment[?] downtown in the park"
-மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
+மூவரும் பூங்காவில் கேளிக்கை[?] காட்டுவோம்
+
 51
 00:03:49,200 --> 00:03:54,800
 She was floored and astonished that he could read
-அவனது வாசிக்கும் தன்மையை கண்டு அவள் வியந்து போனால் 
+அவனது வாசிக்கும் தன்மையை கண்டு அவள் வியந்து போனால்
+
 52
 00:03:55,010 --> 00:03:59,512
 It's called: "My family seder"
-இதன் பெயர் : "My family seder"
+இதன் பெயர் : "என் குடும்பக் கதை (My family seder)"
+
 53
 00:04:00,094 --> 00:04:04,800
 The seder night is different from all other nights
-இந்த seder இரவு மற்ற இரவுகளை விட வித்தியாசமானது 
+இந்த பண்டிகை இரவு மற்ற இரவுகளை விட வித்தியாசமானது
+
 54
 00:04:04,858 --> 00:04:08,472
 I remember once we were are the University of Chicago library
-ஒரு முறை University of Chicago நூலகத்தில் 
+ஒரு முறை சிக்காகோ பல்கலைக்கழக நூலகத்தில் 
 
 55
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was like from 1900
-அலமாரியில் இருந்து   நூறாண்டு கடந்த பழைய புத்தகத்தை எடுத்து 
+அலமாரியில் இருந்து நூறாண்டு கடந்த பழைய புத்தகத்தை எடுத்து 
+
 56
 00:04:12,589 --> 00:04:16,050
 and showed to him, I said: "You know this is [?] an extraordinary place"
 அவனிடம்  காட்டி "இது ஒரு நல்ல வித்தியாசமான நூலகம் ", என்று சொன்னேன் 
+
 57
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
-நாம் மூவருமே ஆருவமுள்ள பிள்ளைகள் தான் ஆனால் Aaron க்கு கற்பதும் கற்பிப்பதும் மிக பிடித்தமானவை 
+நாம் மூவருமே ஆருவமுள்ள பிள்ளைகள் தான் ஆனால் ஆரோன் க்கு கற்பதும் கற்பிப்பதும் மிக பிடித்தமானவை 
+
 58
 00:04:22,225 --> 00:04:30,000
 Today we're going to read the ABC backwards z, y, x, w, ...
 இன்று நாம் ABC ஐ  பின்னோக்கி படிப்போம் 
+
 59
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
-தனது முதல் Algebra வகுப்பிலிருந்து வீடு திரும்பிய Aaron 
+தனது முதல் Algebra வகுப்பிலிருந்து வீடு திரும்பிய ஆரோன் 
+
 60
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
-"Noah, நான் உனக்கு Algebra சொல்லிகொடுகிறேன் "
+"நோவா, நான் உனக்கு இயற்கணிதம்(algebra) சொல்லிகொடுகிறேன் "
 
 61
 00:04:38,625 --> 00:04:40,363
 and I'm like: "What is algebra?"
-நான் கேட்டேன் "Algebra என்றால் என்ன?"
+நான் கேட்டேன் "இயற்கணிதம் என்றால் என்ன?"
+
 62
 00:04:40,785 --> 00:04:42,305
 and he was always like that
-Aaron எப்போதும் இப்படிதான் 
+ஆரோன் எப்போதும் இப்படிதான் 
 
 63
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
-நான் இப்போ button ஐ அமுக்கிறேன் 
+நான் இப்போ பொத்தானை அமுக்கிறேன் 
+
 64
 00:04:46,600 --> 00:04:50,500
 there, now he's got that[?], now it's a pink
-ah வந்துவிட்டது ! இது pink 
+ஆஹ் வந்துவிட்டது ! இது பிங்க்
+
 65
 00:04:52,109 --> 00:04:56,000
 When he was at 2 or 3 three years old and Bob introduced him to computers
-2-3 வயதான Aaron ஐ Bob கணினிதுறையில் அறிமுகம்  செய்தார் 
+2-3 வயதான ஆரோனை பாப்(Bob) கணினிதுறையில் அறிமுகம்  செய்தார்
+
 66
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
-அதில் தீவிர ஈடுபாடு கொண்டான் Aaron
+அதில் தீவிர ஈடுபாடு கொண்டான் ஆரோன்
+
 67
 00:04:59,178 --> 00:05:02,712
 [?]
@@ -294,7 +314,7 @@ then he just took off like crazy on them
 68
 00:05:03,243 --> 00:05:08,247
 We all had computers, but Aaron really took to them, really took to the Internet
-எங்கள் மூவருக்கும் கணினி இருந்தாலும் Aaron அதனுடன் ஒன்றி விட்டான் 
+எங்கள் மூவருக்கும் கணினி இருந்தாலும் ஆரோன் அதனுடன் ஒன்றி விட்டான் 
 
 69
 00:05:09,207 --> 00:05:10,500
@@ -304,61 +324,70 @@ Looking at the computer?
 70
 00:05:10,545 --> 00:05:12,900
 No, how come, Mommy, how come nothing is working
-இல்ல அம்மா ... என் ? என் ஒண்ணும் வரலை?
+இல்ல அம்மா ... ஏன் ? ஏன் ஒண்ணும் வரலை?
 
 71
 00:05:15,854 --> 00:05:18,101
 He started programming from a really young age.
-சின்னஞ்சிறு வயதிலேயே கணினி program எழுத  ஆரம்பித்துவிட்டான் 
+சின்னஞ்சிறு வயதிலேயே கணினி செய்நிரல்(program) எழுத  ஆரம்பித்துவிட்டான் 
 
 72
 00:05:18,152 --> 00:05:21,585
 I remember the first program that I wrote with him was in basic
-நாங்கள் இருவரும் எழுதிய முதல் Basic program
+நாங்கள் இருவரும் எழுதிய முதல் பேசிக்(Basic) செய்நிரல்
+
 73
 00:05:21,781 --> 00:05:24,334
 and  was a Star Wars trivia game
-ஒரு எளிய "Star Wars " விளையாட்டு
+ஒரு எளிய "ஸ்டார் வார்ஸ் (Star Wars)" விளையாட்டு
+
 74
 00:05:25,883 --> 00:05:29,500
 He sat down with me in the basement where the computer was
 கணினி வைக்கபட்டிருந்த அடிதளத்தில் என்னோடு அமர்ந்து 
+
 75
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
-மணிக்கணக்காக இந்த விளையாட்டை program செய்தான் 
+மணிக்கணக்காக இந்த விளையாட்டை செய்நிரல் எழுதுவான்
 
 76
 00:05:34,880 --> 00:05:38,196
 The problem that I kept having with him is that
 there was nothing that I wanted done
-எங்கள் இருவருக்கும் உள்ள வித்தியாசம்  என்னவென்றால், எனக்கு எதையும் மென்மேலும் செய்ய தோன்றவில்லை 
+எங்கள் இருவருக்கும் உள்ள வித்தியாசம்  என்னவென்றால், எனக்கு எதையும் மென்மேலும் செய்ய தோன்றவில்லை
+
 77
 00:05:38,247 --> 00:05:41,563
 and to him there was always something to do
 ஆனால் அவனுக்கோ எதையுமே மேலும் நன்றாக செய்ய ,
+
 78
 00:05:41,600 --> 00:05:44,181
 always something that programming could solve
-அனைத்தையும் programming முலம் தீர்வு காண   துடிப்பு இருந்தது 
+அனைத்தையும் செய்நிரல் முலம் தீர்வு காண   துடிப்பு இருந்தது 
 
 79
 00:05:47,185 --> 00:05:50,603
 The way that Aaron always thought is that programming is magic
-program என்ற வலிமையான மாயஜால கருவி கொண்டு 
+செய்நிரல் என்ற வலிமையான மாயஜால கருவி கொண்டு
+
 80
 00:05:50,843 --> 00:05:53,963
 you can accomplish this things that normal humans can't
-ஒரு சாதாரண மனிதனால் செய்யமுடியாதவற்றை சாதிக்கலாம் என Aaron நம்பினான் 
+ஒரு சாதாரண மனிதனால் செய்யமுடியாதவற்றை சாதிக்கலாம் என ஆரோன் நம்பினான் 
+
 81
 00:05:54,029 --> 00:05:57,941
 Aaron made an ATM using like a Macintosh and like a cardboard box
 (Not sure of the translation for this line)
-ஒரு அட்டை பேட்டியின் உதவி கொண்டு Macintoshகணினியை ATM மாக மாற்றினான் 
+ஒரு அட்டைப்பெட்டியின் உதவி கொண்டு மேக்கிண்டாஷ்(Macintosh) கணினியை ஏ டி எம் (ATM) மாக மாற்றினான்
+
 82
 00:05:58,000 --> 00:06:01,700
 One year for Halloween I didn't know what I wanted to be
-ஒரு முறை  Haloween க்கு நான் என்ன வேடம் போடலாம் என்று தடுமாறியபோது 
+ஒரு முறை  ஆலோவீனுக்கு நான் என்ன வேடம் போடலாம் என்று தடுமாறியபோது
+
 83
 00:06:01,800 --> 00:06:04,600
 and he thought would be really really cool if I dressed up
@@ -366,159 +395,193 @@ and he thought would be really really cool if I dressed up
 84
 00:06:04,700 --> 00:06:08,800
 like his new favourite computer which at the time was the original iMac
-
-நான் அவனது புது அபிமான iMac கணினியாக
+நான் அவனது புது அபிமான ஐ-மேக் (iMac) கணினியாக
 வேடம் போட்டால் மிக சிறப்பாக இருக்கும் என கருதினான் 
 
 85
 00:06:09,025 --> 00:06:11,150
 and he hated dressing up for Hallowen
-தான் தனக்கு வேடம் போட விரும்பாத அவன் 
+தான் தனக்கு வேடம் போட விரும்பாத அவன்
+
 86
 00:06:11,160 --> 00:06:14,340
 but he loved convincing other people to dress like other things he wanted to see
 பிறருக்கு தான் விரும்பிய வேடங்களை போட்டு ரசிக்க விரும்பினான் 
+
 87
 00:06:17,900 --> 00:06:20,200
 [?]
 Guys, come on, look at the camera
 [?]
-"டேய், கேமராவை பாருங்கடா "
+பசங்களா... ஒளிப்படக்கருவியைப் பாருங்க...
+
 88
 00:06:24,130 --> 00:06:28,174
 He made this website called "The Info"
-"The Info" என்ற இணையதளத்தில் 
+"தி இன்போ (The Info)" என்ற இணையதளத்தில் 
+
 89
 00:06:28,247 --> 00:06:30,560
 where people could just fill in information
 மக்கள் தாமறிந்த தகவல்களை பகிர்ந்துகொள்ள உறவாகினான் 
+
 90
 00:06:31,716 --> 00:06:34,734
-Like, I'm sure someone out there knows all about gold, gold leafing[?].
-????????
+Where people can just fill in information, like golf, [?]
+அங்கு மக்கள் தங்களுக்குத் தெரிந்த தகவல்களைப் எழுதலாம். எடுத்துக்காட்டாக கோல்ப், [?]
+
 91
 00:06:34,785 --> 00:06:36,661
-Why aren't they writing about that on this website?
-என் அதை பற்றி இதில் எழுதவில்லை ?
+One of them write about that in this website
+யாரவது ஒருவர் இந்த வலைத்தளத்தில் அதை எழுத 
+
 92
 00:06:36,734 --> 00:06:39,912
 And then other people can come at a later point and read that information
-எதிர்காலத்தில் எவரும் இத்தளத்தின் முலம் இத்தகவல்களை தெரிந்துகொள்ளலாம் 
+பிறகு எவரும் இத்தளத்தின் முலம் இத்தகவல்களை வாசிக்கலாம் 
+
 93
 00:06:39,949 --> 00:06:43,301
 and edit the information if they thought that it was bad
 தவறான தகவல் என நினைத்தால் அவற்றை மாற்றி எழுதலாம் 
+
 94
 00:06:43,650 --> 00:06:46,000
 Not too dissimilar from Wikipedia, all right?
-விக்கிபீடியாவில்  இருந்து அதிக மாற்றம் இல்லை , அல்லவா ?
+விக்கிபீடியாவில்  இருந்து அதிக மாற்றம் இல்லை, இல்லையா?
+
 95
 00:06:46,138 --> 00:06:49,500
 This is before Wikipedia begun
 இது விக்கிபீடியா வருவதற்கு முன்பு -
+
 96
 00:06:49,687 --> 00:06:51,985
 and this is developed by a 12 year old
 ஒரு 12 வயதான சிறுவன் 
+
 97
 00:06:52,021 --> 00:06:54,600
 in his room, by himself
 தானாகவே தனது அறையில் 
+
 98
 00:06:54,683 --> 00:06:58,574
 running on this tiny server using ancient technology
 ஒரு சின்ன சர்வரை உபயோகித்து மிக பழைய  
 தொழில்நுட்பம் கொண்டு செய்தது !
+
 99
 00:06:58,625 --> 00:07:00,800
 One of the teacher's responds like:
 ஒரு ஆசிரியரின் கருத்து :
+
 100
 00:07:01,541 --> 00:07:04,712
 "This is a terrible idea, you can't just let anyone
-????????????????
+இது ஒரு மோசமான யோசனை, நீ யாரை வேண்டுமானாலும் 
+
 101
 00:07:04,756 --> 00:07:07,090
 author the dictionary, like author the encyclopedia"
-?????????
+ஒரு அகராதியையோ, அல்லது கலைக்கழஞ்சியத்தையோ எழுத அனுமதிக்க முடியாது!
+
 102
 00:07:07,149 --> 00:07:10,269
 "For a whole reason we have scholars to write these book for us"
-????????
+இவற்றை எழுத அறிங்கர்கள் இருப்பதற்குக் காரணம் உண்டு.
+
 103
 00:07:10,300 --> 00:07:12,414
 "How did you ever had such a terrible idea"
-????????
+எப்படி உனக்கு இதுபோன்ற மோசமான யோசனை வந்தது?
+
 104
 00:07:12,596 --> 00:07:14,800
 Me and my other brother would be like: "Yeah, you know"
-?????????????
+நானும் என் சகோதரனும் நினைப்போம், "ஆமாம்..."
+
 105
 00:07:14,850 --> 00:07:19,800
 "Wikipedia is cool but we had that in our house, like 5 years ago"
-?????????????
+"விக்கிப்பீடியா நன்றாக உள்ளது. ஆனால் எங்கள் வீட்டில் அது 5 வருடங்கள் முன்பே உண்டே!"
+
 106
 00:07:21,490 --> 00:07:25,770
 Aaron's website "The Info.org" wins a school competition
-Aaron இன் "The Info.org" இணையதளம் 
+ஆரோனின் "தி இன்போ.ஆர்க் (The Info.org)" இணையதளம்
+
 107
 00:07:25,800 --> 00:07:30,000
 hosted by the Cambridge based web design firm ArsDigita
-  Cambridge இல் உள்ள ArsDigita நிறுவனம் நடத்திய பள்ளி போட்டியில் முதன்மையாக வந்தது 
+கேம்ப்ரிட்ஜில் உள்ள ஆர்ஸ் டிஜிட்டா  நிறுவனம் நடத்திய பள்ளி போட்டியில் முதன்மையாக வந்தது 
+
 108
 00:07:34,240 --> 00:07:37,738
 We all went to Cambridge when he won the ArsDigita Prize
-இவ்  விழாவிற்கு நாங்கள் எல்லோரும் Cambridge சென்றோம் 
+இவ்  விழாவிற்கு நாங்கள் எல்லோரும் கேம்ப்ரிட்ஜ் சென்றோம் 
+
 109
 00:07:37,774 --> 00:07:39,687
 and, you know, we had no clue of what Aaron was doing
 முக்கியமான இந்த பரிசை அறிவிக்கும் வரையில் 
+
 110
 00:07:39,803 --> 00:07:43,156
 it was obvious that the prize was really important
-Aaron என்ன செய்கிறான் என்பது எங்களுக்கு தெரியாமல் இருந்துது 
+ஆரோன் என்ன செய்கிறான் என்பது எங்களுக்கு தெரியாமல் இருந்துது 
+
 111
 00:07:44,261 --> 00:07:47,700
 Aaron soon became involved with on-line programming communities
 இணையதளத்தின் வளர்சிக்காக புது முறைகளை அமலாக்க முயன்ற 
+
 112
 00:07:47,752 --> 00:07:50,894
 then in the process of shaping a new tool for the Web
-online programming செய்பவர்களின் கழகத்தில் Aaron க்கு ஈடுபாடு உண்டாகியது
+இணையத்தில் செய்நிரல் செய்பவர்களின் கழகத்தில் ஆரோனுக்கு ஈடுபாடு உண்டாகியது
+
 113
 00:07:51,460 --> 00:07:55,723
 He concept is like[?]: "Ben, there's a really awesome thing that I'm working on"
-"Ben,ஒரு மகத்தான முயற்சியில் நான் ஈடுபட்டுளேன் "
+"பென்(Ben), ஒரு மகத்தான முயற்சியில் நான் ஈடுபட்டுளேன் "
+
 114
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it"
-"இதை பற்றி நீ தெரிந்து கொள்ள வேண்டும் "
+"இதை பற்றி நீ தெரிந்து கொள்ள வேண்டும்"
+
 115
 00:07:57,760 --> 00:07:58,800
 I'm like: "Yeah, what is it?"
 நான் கேட்டேன் "என்ன அது ?"
+
 116
 00:07:58,865 --> 00:08:01,010
 He says: "It's this thing called RSS"
-"இதற்கு RSS என்று பெயர் "
+"இதற்கு ஆர் எஸ் எஸ்(RSS) என்று பெயர் "
+
 117
 00:08:02,510 --> 00:08:04,007
 And he explains to me what RSS is
 என்று கூறி அதை பற்றி விவரித்தான் 
+
 118
 00:08:04,021 --> 00:08:11,500
 and I like: "Why is that useful? Aaron, is a site using it? Why would I want to use it?"
 நான் கேட்டேன் 
-"இதனால் என்ன பயன் ?ஏதாவது இணையத்தளம் இதை உபயோகிகின்றதா?"
+"இதனால் என்ன பயன்? ஏதாவது இணையத்தளம் இதை உபயோகிகின்றதா?"
+
 119
 00:08:11,672 --> 00:08:15,127
 There was this mailing list for people who were working on RSS
+ ஆர் எஸ் எஸ்,எக்ஸ் எம் எல்(XML) கழகதினற்கு ஒருவருடன் ஒருவர் தொடர்புகொள்ள ஒரு தனி பட்டியல் உண்டு 
 
-RSS , XML கழகதினற்கு ஒருவருடன் ஒருவர் தொடர்புகொள்ள ஒரு தனி பட்டியல் உண்டு 
 120
 00:08:15,160 --> 00:08:19,374
 and XML more generally and there was a person on it named Aaron Swartz
-இதில் Aaron Swartz -
+இதில் ஆரோன் ஸ்வார்ட்ஸ்-
+
 121
 00:08:19,400 --> 00:08:23,600
 who was combatitive but very smart and who had lots of good ideas
