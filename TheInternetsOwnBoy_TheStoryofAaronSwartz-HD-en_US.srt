@@ -1,25 +1,29 @@
 ﻿1
 00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
-அநியாயமான சட்டங்கள் இருக்கும் பட்சத்தில் 
+அநியாயமான சட்டங்கள் இருக்கும் பட்சத்தில்
+
 2.00:00:26,000 --> 00:00:28,600
 shall we be content to obey them,
-இவைக்கு கட்டுப்பட்டு நாம் நடப்பதா ?
+இவைகளுக்குக் கட்டுப்பட்டு நாம் நடப்பதா ?
+
 3
 00:00:28,700 --> 00:00:33,600
 or shall we endeavor to amend them,
 and obey them until we have succeeded,
-இல்லையனில்
- இவைகளை திருத்த முற்பட்டு அது வெற்றி பெறும் வரை இவைக்கு கட்டுபடுவதா ?
+இல்லையனில் இவைகளை திருத்த முற்பட்டு 
+அது வெற்றி பெறும் வரை இவைக்கு கட்டுபடுவதா ?
+
 4
 00:00:33,700 --> 00:00:37,600
 or shall we transgress them at once?
-இல்லையனில்    
-தற்பொழுதே இச்சட்டத்தை மீறுவதா ?
+இல்லையனில் தற்பொழுதே இச்சட்டத்தை மீறுவதா?
+
 5
 00:00:37,700 --> 00:00:40,000
 Henry David Thoreau
 ஹென்றி டேவிட் தோரியோவ்(Henry David Thoreau)
+
 6
 00:00:50,222 --> 00:00:55,000
 The co-founder of the social news and entertainment website "reddit" has been found dead
@@ -36,13 +40,13 @@ He was totally unexcited about studing businesses and making money
 9
 00:01:09,941 --> 00:01:14,800
 There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometown
+இணையத்தின் மிகப் பிரகாசமான ஒளியாய் திகழ்ந்த ஆரோன் ஸ்வார்ட்ஸின்(Aaron Swartz) 
+அன்புக்குரியவர்கள் பிரியாவிடை தர,
 
 10
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
-
-இணையத்தின் மிகப் பிரகாசமான ஒளியாய் திகழ்ந்த ஆரோன் ஸ்வார்ட்ஸின்(Aaron Swartz) அன்புக்குரியவர்கள் பிரியாவிடை தர,  அவரது சொ
-ந்த ஊரான ஹைலாந்து பார்க் (Highland Park) சோகத்தில் முழுகியது 
+அவரது சொந்த ஊரான ஹைலாந்து பார்க் (Highland Park) சோகத்தில் முழுகியது 
 
 
 11
