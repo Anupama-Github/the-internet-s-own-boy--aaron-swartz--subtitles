@@ -48,17 +48,19 @@ There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometow
 as loved ones say goodbye to one of the Internet's brightest lights
 அவரது சொந்த ஊரான ஹைலாந்து பார்க் (Highland Park) சோகத்தில் முழுகியது 
 
-
 11
 00:01:19,000 --> 00:01:22,247
 ...Open Access and computer activits are mourning his loss
-?????
+...திறந்த தகவல் உரிமை மற்றும் கணினி ஆர்வலர்கள் 
+அவரது இறப்பினால் சோகத்தில் உள்ளனர்
+
 12
 00:01:22,280 --> 00:01:25,163
 ...an astonishing intellect. You talk to people who knew him
-இவரை அறிந்தவர்களை கேட்டு பார் ...
-...இவர் வியக்கத்தக்க மேதை
-...
+இவரை அறிந்தவர்களைக் கேட்டுப்பாருங்கள்...
+இவர் வியக்கத்தக்க மேதை
+
+
 13
 00:01:25,214 --> 00:01:29,500
 ...he was killed by the government and MIT betrayed all of its basic principles
@@ -98,40 +100,47 @@ that all the things around me, that people had told me
 00:02:02,850 --> 00:02:06,189
 were just the natural way things were, the way things always would be.
 எல்லாமே இப்படி தான் இருக்கும் இவற்றை மாற்ற முடியாது 
+
 22
 00:02:06,225 --> 00:02:08,545
 They weren't natural at all. They were things that could be changed
 என்ற மக்களின் கருத்தை, நான் வளர வளர என்னால் ஏற்றுகொள்ளமுடியவில்லை 
+
 23
 00:02:08,589 --> 00:02:11,687
 and they were thing that more importantly were wrong and should change.
 இவைகளை  மாற்ற முடியும், இவை தவறானவை, இவற்றை மாற்றியே ஆகவேண்டும் என உணர்ந்தேன் 
+
 24
 00:02:11,738 --> 00:02:14,516
 And once I realised that, there was really kind of no going back
 இதை உணர்ந்தபின், நான் பின்வாங்கபோவதில்லை 
 
-
 25
 00:02:15,000 --> 00:02:19,000
 The Internet's Own Boy
+இணையத்தின் சொந்தக் குழந்தை
 
 26
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
-வாருங்கள்,கதை வாசிப்போம் 
+வாருங்கள்,கதை வாசிப்போம்
+
 27
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the fair'
-புத்தகத்தின் பேர் "The Paddington Fair "
+புத்தகத்தின் பேர் "பேடிங்க்டன் விழா"
+
 28
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
+ஆரோன் ஹைலாந்து பார்க்கில் 
 
 29
 00:02:36,552 --> 00:02:40,000
 Aaron came from a family of three brothers all extraordinarly bright
-Aaron Highland  Park இல் மூன்று புத்திசாலியான சகோதரர்களில் ஒருவனாக பிறந்து   வளர்ந்தான் 
+மூன்று புத்திசாலியான சகோதரர்களில் ஒருவனாக பிறந்து வளர்ந்தான் 
+
 30
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
@@ -140,11 +149,13 @@ The box is flipping over!
 31
 00:02:44,574 --> 00:02:47,767
 So, we were all, you know, not the best behaved children
-நாங்கள் எல்லோருமே சமர்த்தான குழந்தைகள் அல்ல 
+நாங்கள் எல்லோருமே சமர்த்தான குழந்தைகள் அல்ல
+
 32
 00:02:47,810 --> 00:02:51,100
 you know, three boys running around all the time, causing trouble
-சுட்டித்தனமாக எல்லா இடத்திலும்  ஓடி தொல்லை  கொடுத்து கொண்டிருந்தோம் 
+சுட்டித்தனமாக எல்லா இடத்திலும்  ஓடி, தொல்லை கொடுத்து கொண்டிருந்தோம் 
+
 33
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
@@ -155,15 +166,19 @@ Aaron: What?
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-ஆரோன் மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
+ஆரோன் மிக சிறு வயதிலேயே எப்படி கற்றுகொள்ளவேண்டும் 
+என்பதை  கற்றுக்கொண்டுவிட்டான் என உணர்ந்துகொண்டேன் 
+
 35
 00:03:06,500 --> 00:03:07,700
 Toc, toc!?
 டக் டக் !?
+
 36
 00:03:07,800 --> 00:03:08,800
 Who's here?
 யார் இங்கே?
+
 37
 00:03:08,900 --> 00:03:09,800
 Aaron!
@@ -178,10 +193,12 @@ Aaron who?
 00:03:10,887 --> 00:03:12,500
 Aaron funny man
 ஆரோன்.. கோமாளி
+
 40
 00:03:12,640 --> 00:03:14,858
 He knew what he wanted, he always wanted to do it.
 என்ன வேண்டும் என்பதை நன்கு அறிந்து அதை செய்வதிலேயே குறியாக இருந்தான் 
+
 41
 00:03:14,872 --> 00:03:16,850
 He always accomplished what he wanted.
@@ -204,12 +221,13 @@ One day he said to Susan:
 
 45
 00:03:34,523 --> 00:03:37,240
-"Let's do three family entertainment[?] downtown in the park"
-நாம் மூவரும் பூனக்வில் கேளிக்[?]கை காட்டுவோம் 
+"Let's go to free family entertainment downtown in the park"
+நாம் நகர்ப் பூங்காவில் இலவச குடும்பப் பொழுதுபோக்கு விழவுக்குப் போகலாம் 
+
 46
 00:03:37,381 --> 00:03:40,000
-Three family entertainment[?] downtown in the park
-மூவரும் பூங்காவில் கேளிக்கை[?] காட்டுவோம்
+Free family entertainment downtown in the park
+நகர் பூங்காவில் இலவச குடும்பப பொழுதுபோக்கு விழ உள்ளது
 
 47
 00:03:40,500 --> 00:03:42,000
