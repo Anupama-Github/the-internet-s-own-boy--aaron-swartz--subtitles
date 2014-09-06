@@ -984,7 +984,7 @@ but it wasn't an excessive burden
 00:12:41,100 --> 00:12:46,200
 it was a reasonable institution to have in place
 to make sure that people got paid
-
+உரியவர்களுக்கு  பணம் கிடைப்பதற்க்கு இது ஒரு நியாயமான வழியாக இருந்தது
 197
 00:12:46,254 --> 00:12:50,100
 What Aaron generation experienced was the collision
@@ -992,15 +992,16 @@ What Aaron generation experienced was the collision
 198
 00:12:50,145 --> 00:12:52,800
 between this antique copyright system
-
 199
 00:12:52,930 --> 00:12:56,560
 and this amazing new thing we were trying to build, the Internet and the Web
+Aaron இன் பரம்பரைஇல்
+முற்காலத்தின் பதிப்புரிமைக்கும் தற்போதைய இணையதளத்திற்கும் பொருந்தாமையினால்    மோதல் ஏற்பட்டது 
 
 200
 00:12:56,632 --> 00:13:00,000
 These things collided and what we got was chaos
-
+இந்த மோதலினால்  குழப்பம் உண்டாகியது 
 201
 00:13:02,494 --> 00:13:05,400
 He then met Harward law professot Lawrence Lessig
