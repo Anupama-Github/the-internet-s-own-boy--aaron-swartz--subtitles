@@ -1005,27 +1005,27 @@ These things collided and what we got was chaos
 201
 00:13:02,494 --> 00:13:05,400
 He then met Harward law professot Lawrence Lessig
-
+பதிப்புரிமை சட்டத்தை  உச்ச நீதி 
 202
 00:13:05,476 --> 00:13:08,700
 who was then challenging copyright law in the supreme court
-
+மன்றத்தில் எதிர்த்து போராடிய Lawrence Lessig ஐ Aaron Swartz சந்தித்தார் 
 203
 00:13:08,900 --> 00:13:13,200
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
-
+உச்ச நீதி மன்றத்தில் இது பற்றிய விவாதங்களை கேட்பதற்காக Aaron Swartz Washington சென்றார்
 204
 00:13:13,287 --> 00:13:17,700
 I'm Aaron Swartz and I'm here to listen to the Eldred ...to see the Eldred argument
-
+Aaron Swartz ஆகிய நான் Eldred வாதங்களை கேட்பதற்காக இங்கு வந்தேன் 
 205
 00:13:18,100 --> 00:13:23,000
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
-
+Eldred வாதங்களை கேட்பதற்காக Chicago வில் இருந்து ஏன் பயணம் செய்தீர்கள்?
 206
 00:13:23,200 --> 00:13:25,000
 That's a more difficult question
-
+அது கஷ்டமான கேள்விதான் 
 207
 00:13:30,000 --> 00:13:33,700
 I don't know, I'm very excited to see the supreme court
@@ -1033,15 +1033,15 @@ I don't know, I'm very excited to see the supreme court
 208
 00:13:33,800 --> 00:13:36,400
 especially in such a prestigious case as this one
-
+இது போன்ற சிறந்த பதிப்புரிமை வாதங்களை உச்ச நீதி மன்றத்தில் கேட்க ஆவலாக உள்ளேன் 
 209
 00:13:42,000 --> 00:13:46,600
 Lessig was also moving forward with a new way to define copyright on the Internet
-
+Lessig இணையதளத்தில் வரையறுக்க ஒரு புது முறையை கையாண்டார்            
 210
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
-
+  இதற்கு "Creative Commons " என்று பெயர் 
 211
 00:13:49,200 --> 00:13:51,800
 So the simple idea of Creative Commons is to give people, creators
@@ -1053,116 +1053,119 @@ a simple way to mark their creativity
 213
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intended to carry
-
+ எளிமையான இந்த Creative Commons மக்களுக்கு
+தங்கள் படைப்பை  பிறர் எந்த அளவு சுதந்தரமாக பயன் படுத்தலாம் என்பதை உணர்த்தியது 
 214
 00:13:59,000 --> 00:14:01,700
 So copyright is about "all rights reserved"
-
+பதிப்புரிமையின் "எல்லாம் எனதுரிமை " என்பதை விட்டு 
 215
 00:14:01,900 --> 00:14:04,900
-then this is a kind of "some rights reserved" bottle[?]
+then this is a kind of "some rights reserved" model
 
+"சில உரிமைகள் எனக்கு " என்பதற்கு Creative Commons ஒரு உதாரணம் 
 216
 00:14:05,100 --> 00:14:08,400
 It's I want a simple way to say to you "here's what you can do with my work"
-
+இது எளிய முறையில் எனது படைப்புக்களை மற்றவர்கள் என்னவெல்லாம் செய்யலாம் என்பதேயும் ,
 217
 00:14:08,700 --> 00:14:12,800
 even if there are other things which you need to get my permission before you could do
-
+என்னென செய்வதற்கு எனது அனுமதி தேவை என்பதையும் உணர்த்தியது 
 218
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
-
+இதில்  Aaron இன் பங்கு கணினியில் 
 219
 00:14:16,600 --> 00:14:18,600
 like how do you architect the licenses
-
+உரிமங்களை பிறர் எளிமையாக அறிந்துகொள்ளும் வண்ணத்திலும்
 220
 00:14:18,800 --> 00:14:23,300
 so that would be simple and understandable and expressed in way that machines could process it
-
+கணினிகள் இவற்றை எளிதாக செயல் படுத்தும் முறைகளை கையாளுவதாகும் 
 221
 00:14:23,600 --> 00:14:26,800
 And people are like, why do you have this fifteen year old kid
-
+ஒரு 15 வயதான சிறுவன் 
 222
 00:14:26,900 --> 00:14:29,000
 writing the specifications of creative commons?
-
+Creative Commons இன் அடிப்படை குறிப்புகளை எழுதுவது 
 223
 00:14:29,400 --> 00:14:31,100
 like, don't you think that's a huge mistake?
-
+பெரிய தவறு என்று மக்கள் கருதினர் 
 224
 00:14:31,200 --> 00:14:34,600
 and larry is like: "the biggest mistake that we would have is not listening to this kid"
-
+இந்த சிறுவனின் கருத்துக்களை கேட்காதது இதை விட மிக பெரிய தவறாகும் என்று Larry கருதினார் 
 225
 00:14:35,700 --> 00:14:39,200
-embarrassing[?] is not even tall enough to get over the podium
-
+Barely he is tall enough to get over the podium
+சொர்பொழிவாற்றுபவர்களின் முன் வைத்திருக்கும் மேஜையை விட ,இச்சிறுவனின் உயரம்  குறைவாக இருப்பதனாலும்,
 226
 00:14:39,400 --> 00:14:41,300
 and it wasn't one of those movable podiums
-
+ மேஜையின் உயரத்தை மாற்ற முடியாததாலும்
 227
 00:14:41,500 --> 00:14:45,600
 so this embarrassing thing that once he put his screen up nobody could see his face
-
+இவன் பேசும்பொழுது மக்களுக்கு இவன் முகம் தெரியவில்லை 
 228
 00:14:45,900 --> 00:14:49,000
 When we come to our website here
-
+இத்தளத்தில் 
 229
 00:14:49,300 --> 00:14:50,500
 and we've got few licences
-
+நமக்கு சில உரிமங்கள் உள்ளன 
 230
 00:14:50,900 --> 00:14:54,600
 it gives you this list of options explaining what it means
-
+இப்பட்டியல் உங்கள் விருப்ப தேர்வுகளை விளக்குகின்றன 
 231
 00:14:54,900 --> 00:14:57,200
 and we thought three set of questions
-
+இதில் மூன்று கேள்விகள் உள்ளன 
 232
 00:14:57,500 --> 00:14:59,600
 Do you want to require attribution?
-
+உங்களுக்கு ஒப்புரிமை தேவையா?
 233
 00:14:59,900 --> 00:15:02,600
 Do you want to allow commercial uses of your work?
-
+உங்கள் படைப்புகளை வியாபார ரீதியாக பயன் படுத்தலாமா ?
 234
 00:15:02,900 --> 00:15:05,700
 Do you want to allow modifications of your work?
-
+உங்கள் படைப்புகளை  மாற்றி அமைக்கலாமா ?
 235
 00:15:05,800 --> 00:15:06,900
 I was floored
 
 236
 00:15:07,400 --> 00:15:11,800
-just completely fiberglassed that these adults regarded him as an adult
-
+just completely flabbergasted that these adults regarded him as an adult
+இச்சிறுவனை ஒரு நிபுணராக மக்கள் கருதுவதை கண்டு நான் திகைத்து நின்றேன் 
 237
 00:15:12,000 --> 00:15:14,800
 Aaron stood up there in front an whole audience full of people
-
+Aaron
 238
 00:15:15,000 --> 00:15:20,000
 and just started talking about the platform that he created for Creative Commons
+பொதுமக்களின் முன்னாள் நின்றுகொண்டு தான் உருவாக்கிய "Creative Commons " தளத்தை பற்றி பேச,
 
 239
 00:15:20,200 --> 00:15:22,800
 And they where all listening to him, just
-
+அனைவரும் அவனை ஆர்வத்துடன் கேட்டனர்
 240
 00:15:23,000 --> 00:15:28,600
 I was sitting AT the back thinking:
 "he's just a kid, why're listening to him?"
-
+பின்னால் அமர்ந்திருந்த நான் "இச்சிறுவன் சொல்வதை எப்படி அனைவரும் இவ்வளவு ஆர்வத்துடன் கேட்கின்றனர் ?" என வியந்தேன் 
 241
 00:15:28,800 --> 00:15:29,700
 but they did
@@ -1170,39 +1173,41 @@ but they did
 242
 00:15:29,900 --> 00:15:32,400
 well I don't think I comprehended it fully
-
+எனக்கோ அது முழுவதாக புரியாவிட்டாலும் , அவர்களோ அவனை ஆர்வத்துடன் கேட்டார்கள் 
 243
 00:15:32,600 --> 00:15:37,000
-Though critics have said that it does little to ensure artists get payed for their work
+Though critics have said that it does little to ensure artists get paid for their work
+விமர்சகர்கள்"இத்தளத்தினால் படைப்பவர்களுக்கு பணம் கடைபவது குறைவு" என வாதாடினாலும்
 
 244
 00:15:37,200 --> 00:15:40,000
 the success of Creative Commons has been enourmous
-
+Creative Commons அமோக வெற்றியை பெற்றது 
 245
 00:15:40,200 --> 00:15:46,700
 Currently on the website flickr alone over 200 million people use some form of Creative Commons license
-
+தற்பொழுது இத்தளத்தின் flickr இல் மட்டும் 200 million க்கும் மேலான
+நபர்கள் Creative Commons இன் உரிமங்களை  தன்  படைப்புக்கு பயன் படுத்கின்றனர் 
 246
 00:15:46,800 --> 00:15:51,400
 He contributed through his technical abilities
-
+Aaron தனது தொழில்நுட்ப திறமையை  முழுமையாக பயன் படுத்தினாலும் 
 247
 00:15:51,600 --> 00:15:56,600
 and yet it was not simply a technical matter to him
-
+இதனை வெறும் தொளில்நுட்பமாக அவன் கருதவில்லை 
 248
 00:15:57,600 --> 00:16:00,600
 Aaron Often wrote candidly in his personal blog
-
+Aaron தன் தனிப்பட்ட வலைப்பதிவில் எழுதினான் 
 249
 00:16:01,300 --> 00:16:05,600
 I think deeply about things and I want others to do likewise.
-
+நான் ஆழ்ந்து சிந்திப்பவன் , பிறரும் அப்படியே செய்யவேண்டும் என நினைப்பவன் 
 250
 00:16:06,500 --> 00:16:10,800
 I work for ideas and learn from people. I don’t like excluding people.
-
+நான் சிறந்த கருத்துக்களுக்காக உழைப்பவன் , பிறரிடம் இருந்து கற்றுகொள்ளுபவன் ,பிறரை தவிர்த்து செயல் படுவதில் எனக்கு விருப்பம் இல்லை 
 251
 00:16:11,000 --> 00:16:14,800
 I’m a perfectionist, but I won’t let that get in the way of publication.
